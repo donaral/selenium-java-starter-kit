@@ -1,4 +1,5 @@
 Writing a Simple Selenium Test
+
 We will provide an example test project you can use in order to quickly simulate the Selenium grid usage. Later you can apply the configuration to your own repository and run Grid from there. Here are the steps.
 
 Pre-requisites are:
